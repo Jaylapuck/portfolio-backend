@@ -36,6 +36,9 @@
     },
     "smallDescription": {
       "type": "text"
+    },
+    "image_links": {
+      "type": "text"
     }
   }
 }
