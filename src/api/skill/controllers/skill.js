@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- *  book controller
+ *  skill controller
  */
 
 const { createCoreController } = require('@strapi/strapi').factories;
 
-module.exports = createCoreController('api::book.book');
+module.exports = createCoreController('api::skill.skill');

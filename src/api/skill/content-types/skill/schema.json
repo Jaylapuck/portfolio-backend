@@ -1,20 +1,23 @@
 {
   "kind": "collectionType",
-  "collectionName": "books",
+  "collectionName": "skills",
   "info": {
-    "singularName": "book",
-    "pluralName": "books",
-    "displayName": "book"
+    "singularName": "skill",
+    "pluralName": "skills",
+    "displayName": "skill"
   },
   "options": {
     "draftAndPublish": true
   },
   "pluginOptions": {},
   "attributes": {
-    "title": {
+    "Progress_Bar": {
+      "type": "integer"
+    },
+    "Name": {
       "type": "string"
     },
-    "author": {
+    "Type": {
       "type": "string"
     }
   }

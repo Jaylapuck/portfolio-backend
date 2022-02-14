@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * book service.
+ * social service.
  */
 
 const { createCoreService } = require('@strapi/strapi').factories;
 
-module.exports = createCoreService('api::book.book');
+module.exports = createCoreService('api::social.social');
