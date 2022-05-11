@@ -39,6 +39,9 @@
     },
     "image_links": {
       "type": "text"
+    },
+    "Type": {
+      "type": "string"
     }
   }
 }
