@@ -18,19 +18,6 @@
     "Description": {
       "type": "text"
     },
-    "Images": {
-      "type": "media",
-      "multiple": true,
-      "required": false,
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos"
-      ]
-    },
-    "GithubLinks": {
-      "type": "string"
-    },
     "Skills": {
       "type": "string"
     },
