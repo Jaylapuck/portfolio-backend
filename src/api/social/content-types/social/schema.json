@@ -15,16 +15,6 @@
     "link": {
       "type": "string"
     },
-    "icon_link": {
-      "type": "media",
-      "multiple": false,
-      "required": false,
-      "allowedTypes": [
-        "images",
-        "files",
-        "videos"
-      ]
-    },
     "icon": {
       "type": "string"
     },
